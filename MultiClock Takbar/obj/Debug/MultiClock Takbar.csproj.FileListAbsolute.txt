@@ -1,0 +1,10 @@
+C:\Users\fer_n\source\repos\MultiClock Takbar\MultiClock Takbar\bin\Debug\MultiClock Takbar.exe.config
+C:\Users\fer_n\source\repos\MultiClock Takbar\MultiClock Takbar\bin\Debug\MultiClock Takbar.exe
+C:\Users\fer_n\source\repos\MultiClock Takbar\MultiClock Takbar\bin\Debug\MultiClock Takbar.pdb
+C:\Users\fer_n\source\repos\MultiClock Takbar\MultiClock Takbar\obj\Debug\MultiClock Takbar.csproj.AssemblyReference.cache
+C:\Users\fer_n\source\repos\MultiClock Takbar\MultiClock Takbar\obj\Debug\MultiClock_Takbar.Form1.resources
+C:\Users\fer_n\source\repos\MultiClock Takbar\MultiClock Takbar\obj\Debug\MultiClock_Takbar.Properties.Resources.resources
+C:\Users\fer_n\source\repos\MultiClock Takbar\MultiClock Takbar\obj\Debug\MultiClock Takbar.csproj.GenerateResource.cache
+C:\Users\fer_n\source\repos\MultiClock Takbar\MultiClock Takbar\obj\Debug\MultiClock Takbar.csproj.CoreCompileInputs.cache
+C:\Users\fer_n\source\repos\MultiClock Takbar\MultiClock Takbar\obj\Debug\MultiClock Takbar.exe
+C:\Users\fer_n\source\repos\MultiClock Takbar\MultiClock Takbar\obj\Debug\MultiClock Takbar.pdb
